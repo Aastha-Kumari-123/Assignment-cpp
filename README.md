@@ -127,5 +127,22 @@ This module covers object-oriented programming concepts including class definiti
 72. Program with static member function  
 73. Program with constant object  
 74. Program with constant member function  
-80. Program for dynamic object creation and deletion using new and delete  
+80. Program for dynamic object creation and deletion using new and delete
+
+---
+
+##Module 3:Inheritance,Virtual Function & Polymorphism.
+
+**##Topic 8:Inheritance**
+
+81. Program for single inheritance  
+82. Program for multi-level inheritance  
+83. Program for multiple inheritance  
+84. Program for hierarchical inheritance  
+85. Program for hybrid inheritance  
+86. Program demonstrating private inheritance
+87. Program showing constructor order in inheritance.
+88. Program showing destructor order in inheritance.
+89. Program for virtual base class.
+    
 
