@@ -106,11 +106,11 @@ This module covers object-oriented programming concepts including class definiti
 58. Program to dynamically allocate memory in constructor  
 59. Program to initialize constant data member in constructor  
 60. Program to initialize static data member  
-
 ---
 
----
 ## Topic 6: This Pointer and Friend Functions
-
+61.Program demonstrating this pointer.
+62.Program to differentiate local and member variables using this.
+63.Program with two classes and a common friend function.
 
 ---
