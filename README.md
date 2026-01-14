@@ -88,14 +88,9 @@ This module covers object-oriented programming concepts including class definiti
 
 41.Program defining a simple class and creating an object.  
 42.Program demonstrating private and public data members in a class. 
-Program to demonstrate class member functions.
-Program to read and display employee details using a class.
-Program to perform arithmetic operations using a class.
-46.Program to compare two objects of a class.
-47.Program to find the largest of two numbers using class objects.
-48.Program to calculate area using class objects.
-49.Program demonstrating the concept of a nested class.
-50.Program to count the number of objects using a static data member.
+43.Program to demonstrate class member function.
+44.Program to read and display employee details using class
+45.Program to perform arithmetic operations using class
 
 ---
 ## Topic 5: Constructors and Destructors
