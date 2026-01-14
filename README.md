@@ -81,11 +81,6 @@ These programs are written for academic practice and assignments.
 
 **Description:**  
 This module covers object-oriented programming concepts including class definition, object creation, data abstraction, constructors, destructors, this pointer, and friend functions.
-
----
-
-## Topic 4: Class Definition and Objects
-
 41.Program defining a simple class and creating an object.  
 42.Program demonstrating private and public data members in a class.
 43.Program to demonstrating class memberfunction.
@@ -105,6 +100,7 @@ This module covers object-oriented programming concepts including class definiti
 58.Program to dynamically allocate memory inside a constructor.
 59.Program to initialize a constant data member using a constructor.
 60.Program to initialize a static data member.
+---
 
 ---
 ## Topic 6: This Pointer and Friend Functions
