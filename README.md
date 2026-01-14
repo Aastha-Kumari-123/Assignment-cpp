@@ -153,3 +153,106 @@ These programs are written for academic practice and assignments.
     Program using a structure to store student details.
 
 ---
+
+## Module 2: Classes & Data Abstraction
+
+**Description:**  
+This module covers object-oriented programming concepts including class definition, object creation, data abstraction, constructors, destructors, `this` pointer, and friend functions.
+
+---
+
+## Topic 4: Class Definition and Objects
+
+41. **Simple Class and Object Creation**  
+    Program defining a simple class and creating an object.
+
+42. **Private and Public Members**  
+    Program demonstrating private and public data members in a class.
+
+43. **Class Member Functions**  
+    Program to demonstrate class member functions.
+
+44. **Employee Details Using Class**  
+    Program to read and display employee details using a class.
+
+45. **Arithmetic Operations Using Class**  
+    Program to perform arithmetic operations using a class.
+
+46. **Compare Two Objects**  
+    Program to compare two objects of a class.
+
+47. **Largest of Two Numbers Using Class**  
+    Program to find the largest of two numbers using class objects.
+
+48. **Area Calculation Using Class Object**  
+    Program to calculate area using class objects.
+
+49. **Nested Class**  
+    Program demonstrating the concept of a nested class.
+
+50. **Counting Objects Using Static Variable**  
+    Program to count the number of objects using a static data member.
+
+---
+
+## Topic 5: Constructors and Destructors
+
+51. **Default Constructor**  
+    Program demonstrating the use of a default constructor.
+
+52. **Parameterized Constructor**  
+    Program demonstrating the use of a parameterized constructor.
+
+53. **Multiple Constructors**  
+    Program demonstrating multiple constructors in a class.
+
+54. **Copy Constructor**  
+    Program demonstrating the use of a copy constructor.
+
+55. **Constructor Overloading**  
+    Program to demonstrate constructor overloading.
+
+56. **Destructor Demonstration**  
+    Program demonstrating object destruction using a destructor.
+
+57. **Order of Constructor Execution**  
+    Program to show the order of constructor execution.
+
+58. **Dynamic Memory Allocation in Constructor**  
+    Program to dynamically allocate memory inside a constructor.
+
+59. **Initialization of Constant Data Member**  
+    Program to initialize a constant data member using a constructor.
+
+60. **Initialization of Static Data Member**  
+    Program to initialize a static data member.
+
+---
+
+## Topic 6: This Pointer and Friend Functions
+
+61. **This Pointer Demonstration**  
+    Program demonstrating the use of the `this` pointer.
+
+62. **Local vs Member Variable Using This Pointer**  
+    Program to differentiate local and member variables using the `this` pointer.
+
+63. **Friend Function Accessing Private Data**  
+    Program with a friend function accessing private data members of a class.
+
+64. **Common Friend Function for Two Classes**  
+    Program with two classes and a common friend function.
+
+65. **Friend Class**  
+    Program demonstrating the concept of a friend class.
+
+68. **Compare Private Data Using Friend Function**  
+    Program to compare private data of two classes using a friend function.
+
+69. **Friendship Is Not Mutual**  
+    Program showing that friendship between classes is not mutual.
+
+70. **Swap Private Values Using Friend Function**  
+    Program using a friend function to swap private data values.
+
+---
