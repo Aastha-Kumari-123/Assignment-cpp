@@ -123,6 +123,9 @@ This module covers object-oriented programming concepts including class definiti
 
 **##Topic 7: Static Member,Constant Members,ADT**
 
-71.Program with static data member.
-72.Program with static member function.
+71. Program with static data member  
+72. Program with static member function  
+73. Program with constant object  
+74. Program with constant member function  
+80. Program for dynamic object creation and deletion using new and delete  
 
