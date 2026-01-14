@@ -20,103 +20,55 @@ These programs are written for academic practice and assignments.
 
 ## Topic 1: C++ Basics 
 
-1. **Hello World Program**  
-   Program to print `Hello World` using C++.
-
-2. **Data Types and Sizes**  
-   Program to demonstrate different data types in C++ and display their sizes.
-
-3. **Swap Two Numbers (Using Third Variable)**  
-   Program to swap two numbers using a temporary variable.
-
-4. **Swap Two Numbers (Without Using Third Variable)**  
-   Program to swap two numbers without using a third variable.
-
-5. **Use of Constant Keyword**  
-   Program to demonstrate the use of the `const` keyword in C++.
-
-6. **Simple Interest Calculation**  
-   Program to calculate simple interest.
-
-7. **Celsius to Fahrenheit Conversion**  
-   Program to convert temperature from Celsius to Fahrenheit.
-
-8. **ASCII Value of a Character**  
-   Program to find the ASCII value of a given character.
-
-9. **Area Calculations**  
-   Program to compute the area of circle, triangle, and rectangle.
-
-10. **Typecasting Demonstration**  
-    Program to demonstrate implicit and explicit typecasting.
+ 1.  Program to print Hello World using C++.
+ 2.  Program to demonstrate different data types in C++ and display their sizes.
+ 3.  Program to swap two numbers using third variable.
+ 4.  Program to swap two numbers using a temporary variable.
+ 5.  Program using const keyword.
+ 6.  Program to swap two numbers without using a third variable.  
+ 7.  Program to demonstrate the use of the const keyword in C++. 
+ 8.  Program to calculate simple interest.
+ 9.  Program to convert temperature from Celsius to Fahrenheit.
+ 10. Program to find the ASCII value of a given character.
+ 11. Program to compute the area of circle, triangle, and rectangle.
+ 12. Program to demonstrate implicit and explicit typecasting.
 
 ---
-
 ## Topic 2: Operators and Expressions
 
-11. **Arithmetic Operators**  
-    Program to demonstrate arithmetic operators.
-
-12. **Relational Operators**  
-    Program to demonstrate relational operators.
-
-13. **Logical Operators**  
-    Program to demonstrate logical operators.
-
-14. **Assignment Operators**  
-    Program to demonstrate assignment operators.
-
-15. **Bitwise Operators**  
-    Program to demonstrate bitwise operators.
-
-16. **Increment and Decrement Operators**  
-    Program demonstrating increment and decrement operators.
-
-17. **Conditional (Ternary) Operator**  
-    Program using the conditional (ternary) operator.
-
-18. **Evaluation of Algebraic Expression**  
-    Program to evaluate an algebraic expression.
-
-19. **Leap Year Check**  
-    Program to check whether a given year is a leap year.
-
-20. **Positive, Negative, or Zero Check**  
-    Program to check if a number is positive, negative, or zero.
+11. Program to demonstrate arithmetic operators.
+12. Program to demonstrate relational operators.
+13. Program to demonstrate logical operators.
+14. Program to demonstrate assignment operators.
+15. Program to demonstrate bitwise operators.
+16. Program demonstrating increment and decrement operators.
+17. Program using the conditional (ternary) operator.
+18. Program to evaluate an algebraic expression.
+19. Program to check whether a given year is a leap year.
+20. Program to check if a number is positive, negative, or zero.
 
 ---
 
 ## Topic 3: Control Statements
 
-21. **Simple If Statement**  
-    Program using a simple `if` statement.
-
-22. **If-Else Statement**  
-    Program using an `if-else` statement.
-
-23. **Nested If Statement**  
-    Program using nested `if` statements.
-
-24. **Grading System**  
-    Program to implement a grading system using `if-else`.
-
-25. **Switch Statement**  
-    Program using the `switch` statement.
-
-26. **For Loop (Series Printing)**  
-    Program using a `for` loop to print a series.
+21. Program using a simple if statement. 
+22. Program using an if-else statement.
+23. Program using nested if statements.
+24. Program to implement a grading system using if-else.
+25. Program using the switch statement.
+26. Program using a for loop to print a series.
 
 27. **While Loop (Table Printing)**  
-    Program using a `while` loop to print a table.
+    Program using a while loop to print a table.
 
 28. **Do-While Loop (Number Series)**  
-    Program using a `do-while` loop to print a number series.
+    Program using a do-while loop to print a number series.
 
 29. **Break and Continue Statements**  
-    Program demonstrating the use of `break` and `continue`.
+    Program demonstrating the use of break and continue.
 
 30. **Goto Statement**  
-    Program demonstrating the use of the `goto` statement.
+    Program demonstrating the use of the goto statement.
 
 ---
 
@@ -157,7 +109,7 @@ These programs are written for academic practice and assignments.
 ## Module 2: Classes & Data Abstraction
 
 **Description:**  
-This module covers object-oriented programming concepts including class definition, object creation, data abstraction, constructors, destructors, `this` pointer, and friend functions.
+This module covers object-oriented programming concepts including class definition, object creation, data abstraction, constructors, destructors, this pointer, and friend functions.
 
 ---
 
@@ -232,10 +184,10 @@ This module covers object-oriented programming concepts including class definiti
 ## Topic 6: This Pointer and Friend Functions
 
 61. **This Pointer Demonstration**  
-    Program demonstrating the use of the `this` pointer.
+    Program demonstrating the use of the this pointer.
 
 62. **Local vs Member Variable Using This Pointer**  
-    Program to differentiate local and member variables using the `this` pointer.
+    Program to differentiate local and member variables using the this pointer.
 
 63. **Friend Function Accessing Private Data**  
     Program with a friend function accessing private data members of a class.
