@@ -12,13 +12,13 @@ These programs are written for academic practice and assignments.
  - **University Name:** Netaji Subhash University
 # C Programming Lab Record
 
-## Module 1: C Basics
+## Module 1: C++Basics
 **Total Programs:** 40  
-**Description:** This module covers the fundamentals of C programming including basic program structure, data types, operators, control statements, arrays, strings, pointers, and structures.
+**Description:** This module covers the fundamentals of C++ programming including basic program structure, data types, operators, control statements, arrays, strings, pointers, and structures.
 
 ---
 
-## Topic 1: C Basics & Data Types
+## Topic 1: C++ Basics 
 
 1. **Hello World Program**  
    Program to print `Hello World` using C.
