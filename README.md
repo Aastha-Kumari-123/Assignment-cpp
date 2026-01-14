@@ -81,12 +81,17 @@ These programs are written for academic practice and assignments.
 
 **Description:**  
 This module covers object-oriented programming concepts including class definition, object creation, data abstraction, constructors, destructors, this pointer, and friend functions.
-41.Program defining a simple class and creating an object.  
-42.Program demonstrating private and public data members in a class.
-43.Program to demonstrating class memberfunction.
-44.Program to read and display employee details using class.
-45.Program to perform arithmetic operations using class
 
+41.Program defining a simple class and creating objects.
+42.Program with nprivate and public members.
+43.Program to demonstrate class member functions.
+44.Program to read and display employee details using class.
+45.Program to perform arithmetic operations uwsing class.
+46.program to compare two objects.
+47.Program to find largest of two numbers using class.
+48.Program to calculate area using class objects.
+49.Program to demonstrarte nested class.
+50.Program to count no. of objects using static variable.
 ---
 ## Topic 5: Constructors and Destructors
 
