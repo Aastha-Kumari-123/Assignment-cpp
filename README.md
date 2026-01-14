@@ -114,6 +114,9 @@ This module covers object-oriented programming concepts including class definiti
 62. Program to differentiate local and member variable using this pointer  
 63. Program with friend function accessing private data  
 64. Program with two classes and a common friend function  
-65. Program with friend class  
+65. Program with friend class
+68. Program to overload operators using friend function  
+69. Program showing friendship is not mutual  
+70. Program using friend function to swap private values  
 
 ---
