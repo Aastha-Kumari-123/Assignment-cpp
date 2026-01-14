@@ -10,7 +10,7 @@ These programs are written for academic practice and assignments.
  - **Department:** Engineering
  - **Semester:** 3rd 
  - **University Name:** Netaji Subhash University
-# C Programming Lab Record
+# C++ Programming Record
 
 ## Module 1: C++Basics
 **Total Programs:** 40  
@@ -21,10 +21,10 @@ These programs are written for academic practice and assignments.
 ## Topic 1: C++ Basics 
 
 1. **Hello World Program**  
-   Program to print `Hello World` using C.
+   Program to print `Hello World` using C++.
 
 2. **Data Types and Sizes**  
-   Program to demonstrate different data types in C and display their sizes.
+   Program to demonstrate different data types in C++ and display their sizes.
 
 3. **Swap Two Numbers (Using Third Variable)**  
    Program to swap two numbers using a temporary variable.
@@ -33,7 +33,7 @@ These programs are written for academic practice and assignments.
    Program to swap two numbers without using a third variable.
 
 5. **Use of Constant Keyword**  
-   Program to demonstrate the use of the `const` keyword in C.
+   Program to demonstrate the use of the `const` keyword in C++.
 
 6. **Simple Interest Calculation**  
    Program to calculate simple interest.
