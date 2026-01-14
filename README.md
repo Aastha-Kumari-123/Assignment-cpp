@@ -131,7 +131,7 @@ This module covers object-oriented programming concepts including class definiti
 
 ---
 
-##Module 3:Inheritance,Virtual Function & Polymorphism.
+****##Module 3:Inheritance,Virtual Function & Polymorphism.****
 
 **##Topic 8:Inheritance**
 
