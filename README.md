@@ -109,8 +109,11 @@ This module covers object-oriented programming concepts including class definiti
 ---
 
 ## Topic 6: This Pointer and Friend Functions
-61.Program demonstrating this pointer.
-62.Program to differentiate local and member variables using this.
-63.Program with two classes and a common friend function.
+
+61. Program demonstrating this pointer  
+62. Program to differentiate local and member variable using this pointer  
+63. Program with friend function accessing private data  
+64. Program with two classes and a common friend function  
+65. Program with friend class  
 
 ---
