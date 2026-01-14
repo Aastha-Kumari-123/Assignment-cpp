@@ -120,3 +120,9 @@ This module covers object-oriented programming concepts including class definiti
 70. Program using friend function to swap private values  
 
 ---
+
+**##Topic 7: Static Member,Constant Members,ADT**
+
+71.Program with static data member.
+72.Program with static member function.
+
