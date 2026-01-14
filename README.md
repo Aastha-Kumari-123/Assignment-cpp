@@ -81,42 +81,25 @@ These programs are written for academic practice and assignments.
 
 **Description:**  
 This module covers object-oriented programming concepts including class definition, object creation, data abstraction, constructors, destructors, this pointer, and friend functions.
+41. Program defining a simple class and creating object  
+42. Program with private and public members  
+43. Program to demonstrate class member function  
+44. Program to read and display employee detail using class  
+45. Program to perform arithmetic operations using class  
+46. Program to compare two objects  
+47. Program to find largest of two numbers using class  
+48. Program to calculate area using class object  
+49. Program demonstrating nested class  
+50. Program to count number of objects using static variable 
 
-41.Program defining a simple class and creating objects.
-42.Program with nprivate and public members.
-43.Program to demonstrate class member functions.
-44.Program to read and display employee details using class.
-45.Program to perform arithmetic operations uwsing class.
-46.program to compare two objects.
-47.Program to find largest of two numbers using class.
-48.Program to calculate area using class objects.
-49.Program to demonstrarte nested class.
-50.Program to count no. of objects using static variable.
 ---
 ## Topic 5: Constructors and Destructors
 
-51.Program demonstrating the use of a default constructor.
-52.Program demonstrating the use of a parameterized constructor.
-53.Program demonstrating multiple constructors in a class.
-54.Program demonstrating the use of a copy constructor.
-55.Program to demonstrate constructor overloading.
-56.Program demonstrating object destruction using a destructor.
-57.Program to show the order of constructor execution.
-58.Program to dynamically allocate memory inside a constructor.
-59.Program to initialize a constant data member using a constructor.
-60.Program to initialize a static data member.
+
 ---
 
 ---
 ## Topic 6: This Pointer and Friend Functions
 
-61.Program demonstrating the use of the this pointer.
-62.Program to differentiate local and member variables using the this pointer.
-63.Program with a friend function accessing private data members of a class.
-64.Program with two classes and a common friend function.
-65.Program demonstrating the concept of a friend class.
-68.Program to compare private data of two classes using a friend function.
-69.Program showing that friendship between classes is not mutual.
-70.Program using a friend function to swap private data values.
 
 ---
